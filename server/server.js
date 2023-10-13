@@ -13,6 +13,6 @@ app.use(
 )
 app.use(morgan('combined'))
 app.post("/data", (req, res)=>{
-    res.json({name: "chuong", age: 18, cookies: userCookie})
+    res.json({name: "chuong", age: 18})
 })
 app.listen(3000)
