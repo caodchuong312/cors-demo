@@ -5,3 +5,5 @@
 - Server:
   - run by nodejs: `npm start`
   - address: http://127.0.0.1:3000
+ 
+More: https://hackmd.io/@chuong/cors
